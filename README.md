@@ -2,11 +2,6 @@
 
 Analyze financial price series using spectral analysis (FFT and wavelets) and visualize the market’s hidden frequency structure as a 3D animated energy landscape.
 
-## Creator / Developer
-**tubakhxn**
-
----
-
 ## What is this project?
 This project is a Python-based engine for analyzing financial market price series using advanced spectral techniques (FFT and wavelets). It visualizes the hidden frequency structure of markets as a 3D animated energy landscape and uses AI to classify market regimes (bull, bear, mean reversion, volatility spike, crash risk). The dashboard provides interactive controls for analysis and visualization.
 
